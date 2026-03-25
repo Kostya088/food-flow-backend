@@ -1,7 +1,7 @@
 # Food Flow Backend
 
 Backend API for a food ordering app built with Node.js, Express, and MongoDB.
-Built for the food delivery websiet (https://github.com/Kostya088/food-flow)
+Built for the food delivery website (https://github.com/Kostya088/food-flow)
 
 ## Implemented Features
 
